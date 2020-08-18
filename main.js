@@ -81,7 +81,8 @@ var questions = [
     new Question("Which language is used for styling web pages?", ["HTML", "JQuery", "CSS", "XML"], "CSS"),
     new Question("Which is not a JavaScript Framework?", ["Python Script", "JQuery","Django", "NodeJS"], "Django"),
     new Question("Which is used for Connect To Database?", ["PHP", "HTML", "JS", "All"], "PHP"),
-    new Question("Webdevtrick.com is about..", ["Web Design", "Graphic Design", "SEO & Development", "All"], "All")
+    new Question("Webdevtrick.com is about..", ["Web Design", "Graphic Design", "SEO & Development", "All"], "All"),
+    new Question("भारताची राजधानी कोणती ", ["मुंबई", "चेन्‍नई", "दिल्‍ली", "कोलकाता"], "दिल्‍ली")
 ];
 
 // create quiz
